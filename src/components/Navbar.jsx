@@ -10,7 +10,7 @@ const Navbar = () => {
        <div className="logo flex items-center gap-2.5">
 
         <i className='text-5xl'><RiRobot3Fill /></i>
-        <h3 className='text-2xl'>AI<span className='text-2xl text-purple-500'>-BOT</span></h3>
+        <h3 className='text-2xl font-semibold'>AI<span className=' font-semiboldtext-2xl text-purple-500'>-BOT</span></h3>
        </div>
     {/* user */}
        <div className="user">
